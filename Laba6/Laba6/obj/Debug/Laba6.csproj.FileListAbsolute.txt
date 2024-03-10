@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\obj\Debug\Laba6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\obj\Debug\Laba6.Form1.resources
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\obj\Debug\Laba6.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\obj\Debug\Laba6.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\bin\Debug\Laba6.exe.config
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\bin\Debug\Laba6.exe
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\bin\Debug\Laba6.pdb
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\obj\Debug\Laba6.exe
+C:\Users\LENOVO\Desktop\proga\Laba6\Laba6\obj\Debug\Laba6.pdb
